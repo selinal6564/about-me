@@ -4,7 +4,7 @@
 
 ### Email: selinal6564@hstat.org
 
-I am a student at [_High School of Telecommunication Arts and Technology_](https://www.hstat.org/)
+I am a student at [_High School of Telecommunication Arts and Technology_](https://www.hstat.org/).
 
 **Schedule**
 1. Chemistry
