@@ -4,7 +4,7 @@
 
 ### Email: selinal6564@hstat.org
 
-I am a student at *High School of Telecommunication Arts and Technology*. One thing that I like to do is to draw. I also enjoy learning new things.
+I am a student at _High School of Telecommunication Arts and Technology_.
 
 **Schedule**
 1. Chemistry
@@ -16,3 +16,9 @@ I am a student at *High School of Telecommunication Arts and Technology*. One th
 7. Global History
 8. English
 9. P.E.
+
+**Some Things I Like To Do**
+* Draw
+* Learning new things
+* Listening to music
+* Spending time with family
