@@ -22,3 +22,4 @@ I am a student at [_High School of Telecommunication Arts and Technology_](https
 * Learning new things
 * Listening to music
 * Spending time with family
+
